@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    scroll-behavior: smooth;
+    scroll-margin-top: 110px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: peru;
+}
+
+.cabecalho {
+    background-color: rgb(243, 196, 29);
+    height: 103px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    position: fixed;
+
+}
+
+li {
+    list-style: none;
+    display: inline;
+    margin-right: 40px;
+    text-decoration-line: none;
+
+}
+
+.lista-menu li>a:hover {
+    color: black;
+    font-size: 20px;
+}
+
+/* informações sobre a section menu */
+.lista-menu li>a {
+    color: peru;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+
+/* informações sobre a section introdução */
+
+.intro {
+    background-color: rgb(239, 157, 75);
+    height: 579px;
+    text-align: center;
+
+}
+
+.intro img {
+    height: 150px;
+    width: 150px;
+    margin-top: 130px;
+    margin-bottom: 26px;
+    border-radius: 50%;
+}
+
+.descricao {
+    font-size: 25px;
+    width: 490px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 21px;
+}
+
+/* informações sobre a section formação */
+.vestidos {
+    font-size: 30px;
+    background-color: rgb(239, 157, 75);
+    color: rgb(243, 196, 29);
+    height: 500px;
+    padding: auto;
+    text-align: center;
+    margin-top: 48px;
+
+}
+
+.lista-vestidos {
+    background-color: peru;
+    display: inline-flexbox;
+    padding: 0;
+}
+
+.lista-vestidos img {
+    width: 20%;
+    height: 20%;
+    padding: 10px;
+}
+
+
+/* informações sobre a section infantil */
+.saias {
+    background-color: rgb(239, 157, 75);
+    color: rgb(243, 196, 29);
+    height: 500px;
+    padding: auto;
+    text-align: center;
+    margin-top: 48px;
+}
+
+.saias h2 {
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.lista-saias {
+    background-color: peru;
+    display: inline-flexbox;
+    padding: 0;
+
+}
+
+.lista-saias img {
+    width: 20%;
+    height: 20%;
+    padding: 10px;
+
+}
