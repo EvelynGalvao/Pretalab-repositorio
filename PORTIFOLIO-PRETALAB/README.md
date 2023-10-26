@@ -1,6 +1,6 @@
 Este portfólio tem como objetivo demonstrar os aprendizados de HTML e CSS da formação pretalab;
 
-![image](https://github.com/EvelynGalvao/Pretalab-repositorio/assets/83608589/14912fff-1a95-4f0d-b183-11877bbd0bd6)
+![image](https://github.com/EvelynGalvao/Pretalab-repositorio/assets/83608589/263db7d7-b447-4908-bceb-8fb17228e19a)
 
 ![image](https://github.com/EvelynGalvao/Pretalab-repositorio/assets/83608589/5c093fe6-120f-4a83-b099-017228ce922f)
 
